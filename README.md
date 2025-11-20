@@ -1,5 +1,4 @@
 # 💡 Bulb Toggle Switch | HTML & CSS
-# 💡 Bulb Toggle Switch | HTML & CSS
 
 A unique and realistic **bulb-style toggle switch** built using only **HTML & CSS**.  
 It mimics the look of a real light switch — complete with a lever-style handle and glowing bulb effect when turned on!
